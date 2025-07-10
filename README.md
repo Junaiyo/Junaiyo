@@ -5,7 +5,7 @@
 - 💻 I build Frontend and Backend (I don't have any mental health anymore)
 - 📦 Sometimes I'll do commits in various languages
 
-# Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +19,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-# Stats
+### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaiyo&layout=compact&theme=tokyonight)
 
