@@ -1,5 +1,8 @@
 # About me
 
+> "My code doesn’t have bugs, it just develops unexpected features.”
+> “My code is like a mystery novel — even I don’t know what’s going on sometimes.”
+
 - 👋 I'm Junaiyo
 - ⚒️ I'm a full stack dev (I do all but meh)
 - 💻 I build Frontend and Backend (I don't have any mental health anymore)
