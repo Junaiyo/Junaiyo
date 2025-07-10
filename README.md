@@ -23,6 +23,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaiyo&layout=compact&theme=tokyonight)
 
+## Find me
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/877360079056281610)
+[![Replit](https://img.shields.io/badge/Replit-FF5D01?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@junaiyoreidelas)
+
+
 
 
 
