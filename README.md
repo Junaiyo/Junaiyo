@@ -1,6 +1,7 @@
 # About me
 
 > "My code doesn’t have bugs, it just develops unexpected features.”
+
 > “My code is like a mystery novel — even I don’t know what’s going on sometimes.”
 
 - 👋 I'm Junaiyo
